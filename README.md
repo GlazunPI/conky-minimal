@@ -1,2 +1,2 @@
 # conky-minimal
-Minimalistic comky config file 
+Minimalistic conky config file 
